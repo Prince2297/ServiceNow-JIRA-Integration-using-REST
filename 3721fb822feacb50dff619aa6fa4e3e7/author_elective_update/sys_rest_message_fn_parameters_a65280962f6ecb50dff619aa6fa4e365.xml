@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_parameters">
+    <sys_rest_message_fn_parameters action="DELETE">
+        <name>summary</name>
+        <rest_message_function display_value="CreateJIRACase">e3ac738a2f2ecb50dff619aa6fa4e340</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_parameters</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-08 19:46:13</sys_created_on>
+        <sys_id>a65280962f6ecb50dff619aa6fa4e365</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>summary</sys_name>
+        <sys_package display_value="ServiceNow Jira Integration using REST" source="x_2129719_servic_0">3721fb822feacb50dff619aa6fa4e3e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow Jira Integration using REST">3721fb822feacb50dff619aa6fa4e3e7</sys_scope>
+        <sys_update_name>sys_rest_message_fn_parameters_a65280962f6ecb50dff619aa6fa4e365</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-08 19:46:13</sys_updated_on>
+        <type>string</type>
+        <value>Testing</value>
+    </sys_rest_message_fn_parameters>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ServiceNow Jira Integration using REST">3721fb822feacb50dff619aa6fa4e3e7</application>
+        <file_path/>
+        <instance_id>305a28e3eb71c7105a2dfceacad0cdef</instance_id>
+        <instance_name>dev424909</instance_name>
+        <name>sys_rest_message_fn_parameters_a65280962f6ecb50dff619aa6fa4e365</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_parameters"><sys_rest_message_fn_parameters action="INSERT_OR_UPDATE"><name>summary</name><rest_message_function display_value="CreateJIRACase">e3ac738a2f2ecb50dff619aa6fa4e340</rest_message_function><sys_class_name>sys_rest_message_fn_parameters</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-08-08 19:46:13</sys_created_on><sys_id>a65280962f6ecb50dff619aa6fa4e365</sys_id><sys_mod_count>0</sys_mod_count><sys_name>summary</sys_name><sys_package display_value="ServiceNow Jira Integration using REST" source="x_2129719_servic_0">3721fb822feacb50dff619aa6fa4e3e7</sys_package><sys_policy/><sys_scope display_value="ServiceNow Jira Integration using REST">3721fb822feacb50dff619aa6fa4e3e7</sys_scope><sys_update_name>sys_rest_message_fn_parameters_a65280962f6ecb50dff619aa6fa4e365</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-08-08 19:46:13</sys_updated_on><type>string</type><value>Testing</value></sys_rest_message_fn_parameters></record_update>]]></payload>
+        <payload_hash>1799674517</payload_hash>
+        <record_name>summary</record_name>
+        <reverted_from/>
+        <source>c45273c22feacb50dff619aa6fa4e365</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-08 19:46:13</sys_created_on>
+        <sys_id>fb6208562f6ecb50dff619aa6fa4e3ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19fe2e9631c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-08 19:46:13</sys_updated_on>
+        <type>Variable Substitutions</type>
+        <update_guid>bb620856f06ecb500602d2569d3580ad</update_guid>
+        <update_guid_history>bb620856f06ecb500602d2569d3580ad:1799674517</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-08 19:48:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message_fn_parameters">sys_rest_message_fn_parameters</sys_db_object>
+        <sys_id>26f99e4fa7c64cfc9cc29169340080f9</sys_id>
+        <sys_metadata>a65280962f6ecb50dff619aa6fa4e365</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>summary</sys_name>
+        <sys_package display_value="ServiceNow Jira Integration using REST" source="x_2129719_servic_0">3721fb822feacb50dff619aa6fa4e3e7</sys_package>
+        <sys_parent display_value="CreateJIRACase">e3ac738a2f2ecb50dff619aa6fa4e340</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow Jira Integration using REST">3721fb822feacb50dff619aa6fa4e3e7</sys_scope>
+        <sys_scope_delete display_value="">2c12b0cd47c64f0490b0228cf8a10a10</sys_scope_delete>
+        <sys_update_name>sys_rest_message_fn_parameters_a65280962f6ecb50dff619aa6fa4e365</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_fn_parameters_a65280962f6ecb50dff619aa6fa4e365">fb6208562f6ecb50dff619aa6fa4e3ae</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-08 19:48:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

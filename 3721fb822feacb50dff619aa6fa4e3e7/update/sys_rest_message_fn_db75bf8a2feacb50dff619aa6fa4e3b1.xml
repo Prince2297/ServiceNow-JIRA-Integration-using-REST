@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="INSERT_OR_UPDATE">
+        <authentication_type>basic</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile display_value="JIRA Integration">cc15b3ca2feacb50dff619aa6fa4e393</basic_auth_profile>
+        <basic_auth_user/>
+        <content>{&#13;
+    "fields": {&#13;
+       "project":&#13;
+       {&#13;
+          "key": "CASE"&#13;
+       },&#13;
+       "summary": "REST ye merry gentlemen.",&#13;
+       "description": "Creating of an issue using project keys and issue type names using the REST API",&#13;
+       "issuetype": {&#13;
+          "name": "Bug"&#13;
+       }&#13;
+   }&#13;
+}&#13;
+</content>
+        <function_name>CreateJIRACase</function_name>
+        <http_method>post</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name> [ CreateJIRACase ]</qualified_name>
+        <rest_endpoint>https://prince2297.atlassian.net/rest/api/3/issue</rest_endpoint>
+        <rest_message/>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-08 19:10:17</sys_created_on>
+        <sys_id>db75bf8a2feacb50dff619aa6fa4e3b1</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>CreateJIRACase</sys_name>
+        <sys_package display_value="ServiceNow Jira Integration using REST" source="x_2129719_servic_0">3721fb822feacb50dff619aa6fa4e3e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow Jira Integration using REST">3721fb822feacb50dff619aa6fa4e3e7</sys_scope>
+        <sys_update_name>sys_rest_message_fn_db75bf8a2feacb50dff619aa6fa4e3b1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-08 19:17:12</sys_updated_on>
+        <use_auth_mid_server/>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+</record_update>
